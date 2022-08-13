@@ -1,0 +1,32 @@
+h1{
+  font-size: 50px;
+  color: white;
+ 
+}
+
+body{
+  background-image:url('bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+#countrycode{
+  color: beige;
+  font-size: 25px;
+}
+#active{
+  color: beige;
+  font-size: 25px;
+}
+#recover{
+  color: beige;
+  font-size: 25px;
+}
+#death{
+  color: beige;
+  font-size: 25px;
+}
+#date{
+  color: beige;
+  font-size: 25px;
+}
